@@ -1,2 +1,4 @@
 hello\Application.class
 hello\User.class
+hello\Controller.class
+hello\UserRepository.class

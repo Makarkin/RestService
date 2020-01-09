@@ -1,1 +1,0 @@
-java -jar rest-hello-service-1.0-SNAPSHOT.jar
